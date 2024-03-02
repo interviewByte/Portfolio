@@ -7,7 +7,7 @@ function About() {
       <div id="name-social-container">
         <div className="text-center">
           <h1 id="my-name">Pavan Kumar Singh</h1>
-          <h3 className="fw-bold text-white text-center">Software Engineer</h3>
+          <h3 className="fw-bold text-white text-center">Associate Software Engineer</h3>
         </div>
         <div className="mb-2">
           <ul className="horizontal-social-list text-center social-icons">
