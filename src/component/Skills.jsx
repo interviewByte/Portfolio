@@ -44,7 +44,14 @@ const Skills = () => {
                 <div className="skill-progress">
                     <div className="eighty-five-percent mb-blue" data-bar-width="85">
                         <div className="skill-name fw-semibold">
-                            <span> Javascript </span>
+                            <span> JavaScript </span>
+                        </div>
+                    </div>
+                </div>
+                <div className="skill-progress">
+                    <div className="eighty-five-percent mb-blue" data-bar-width="85">
+                        <div className="skill-name fw-semibold">
+                            <span> TypeScript </span>
                         </div>
                     </div>
                 </div>
@@ -52,6 +59,27 @@ const Skills = () => {
                     <div className="eighty-five-percent mb-blue" data-bar-width="85">
                         <div className="skill-name fw-semibold">
                             <span> React </span>
+                        </div>
+                    </div>
+                </div>
+                <div className="skill-progress">
+                    <div className="eighty-five-percent mb-blue" data-bar-width="85">
+                        <div className="skill-name fw-semibold">
+                            <span> Angular </span>
+                        </div>
+                    </div>
+                </div>
+                <div className="skill-progress">
+                    <div className="eighty-five-percent mb-blue" data-bar-width="85">
+                        <div className="skill-name fw-semibold">
+                            <span> Electron </span>
+                        </div>
+                    </div>
+                </div>
+                <div className="skill-progress">
+                    <div className="eighty-five-percent mb-blue" data-bar-width="85">
+                        <div className="skill-name fw-semibold">
+                            <span> Next.js </span>
                         </div>
                     </div>
                 </div>
@@ -84,14 +112,14 @@ const Skills = () => {
                     </div>
                 </div>
                 <div className="skill-progress">
-                    <div className="fifty-percent mb-light-purple" data-bar-width="55">
+                    <div className="eighty-percent mb-light-purple" data-bar-width="80">
                         <div className="skill-name fw-semibold">
                             <span> Git </span>
                         </div>
                     </div>
                 </div>
                 <div className="skill-progress">
-                    <div className="fifty-percent mb-light-purple" data-bar-width="55">
+                    <div className="eighty-percent mb-light-purple" data-bar-width="80">
                         <div className="skill-name fw-semibold">
                             <span> PostMan </span>
                         </div>

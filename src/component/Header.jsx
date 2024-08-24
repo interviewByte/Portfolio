@@ -11,7 +11,7 @@ const Header = () => {
   };
   return (
     <>
-      <nav className="navbar navbar-expand-lg Mynav">
+      <nav className="navbar navbar-expand-lg fixed-top Mynav">
         <div className="container py-2">
           <button
             className="navbar-toggler"

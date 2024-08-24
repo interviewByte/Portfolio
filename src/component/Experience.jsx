@@ -18,7 +18,7 @@ const Experience = () => {
               </div>
               <h3 class="experience-designation  m0 m-blue">
                 {" "}
-                Software Engineer{" "}
+                Associate Software Engineer{" "}
               </h3>
               <h4 class="experience-company-name"> IPH Technologies </h4>
               <h5 class="experience-duration m0"> 05 2023 - Present </h5>

@@ -8,24 +8,16 @@
 #contact h1 span {
     color: white;
 }
-#contact-form {
+/* #contact-form {
     margin-left: 20%;
-}
-#contact-container {
-    display: flex;
-}
-#my-details-container {
-    width: 35%;
-    margin-left: 6%;
-}
+} */
+
 #my-details-container h3 {
     color: white;
     font-weight: 550;
     font-size: 1.2rem;
 }
-#contact-form-container {
-    width: 50%;
-}
+
 #my-details-container p {
     color: #d9dcdd;
     font-size: 0.9rem;
@@ -66,7 +58,6 @@ textarea {
     border: 2px solid white;
     margin-top: 5%;
     margin-left: 15px;
-    /* margin-left: 35%; */
     border-radius: 2px;
     color: white;
     font-family: sans-serif;
